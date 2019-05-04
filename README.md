@@ -13,4 +13,4 @@
 7. Tables in latex
 8. Citations and reference management in latex.
 ## What are in the files?
-## The main.tex file contains the main syntax. The file **references.bib** contains the reference entries. There are four figures uploaded alongwith. 
+The **main.tex** file contains the main syntax. The file **references.bib** contains the reference entries. There are four figures uploaded alongwith. 
