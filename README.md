@@ -3,7 +3,7 @@
 # How to use the files?
 ## The files can be uploaded to your _overleaf.com_ account. It is ready to be compiled and **PDF** generation. For making any changes, you may use the **main.tex** file.
 After you upload all the files to overleaf, open the main.tex file and hit compile button. You will be able to see a screen as shown in the figure.
-![Overleaf Screen](./latexworkshop2019/overleaf_snap.png)
+![Overleaf Screen](./overleaf_snap.png)
 # What does it cover?
 ## The tutorial covers:
 1. Basic document generation.
