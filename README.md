@@ -19,4 +19,4 @@ After you upload all the files to overleaf, open the main.tex file and hit compi
 The **main.tex** file contains the main syntax. The file **references.bib** contains the reference entries. There are four figures uploaded alongwith. 
 ## Where it comes from?
 The tutorial file contains basic LaTeX modules as covered in the one day workshop on LaTeX document compilation, held on 4 May 2019, COMSATS University Abbottabad, jointly organised by Department of Electrical and Computer Engineering and IET on-campus team.
-Disclaimer: Shared for learning purpose. No liabilities accepted.
+> Disclaimer: Shared for learning purpose. No liabilities accepted.
