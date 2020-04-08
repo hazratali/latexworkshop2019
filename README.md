@@ -4,7 +4,7 @@
 # YouTube Channel
 You can also watch the YouTube videos on our beginners guide channel.
 
-[![YouTube Channel](http://img.youtube.com/vi/VMtTfaaHQcQ/channelicon.png)](http://www.youtube.com/watch?v=VMtTfaaHQcQ)
+[![YouTube Channel](channelicon.png)](http://www.youtube.com/watch?v=VMtTfaaHQcQ)
 
 # How to use the files?
 ## The files can be uploaded to your _overleaf.com_ account. It is ready to be compiled and **PDF** generation. For making any changes, you may use the **main.tex** file.
