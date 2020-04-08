@@ -1,8 +1,11 @@
 # LaTeX Workshop 2019
 ## Basic tutorial file on latex document compilation. 
 ## Very useful and easy to follow note from the workshop I conducted at COMSATS University Abbottabad. 
-#YouTube Channel
-You can also watch the YouTube videos on our beginners guide channel
+# YouTube Channel
+You can also watch the YouTube videos on our beginners guide channel.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VMtTfaaHQcQ
+" target="_blank"><img src="http://img.youtube.com/vi/VMtTfaaHQcQ/channelicon.png" 
+alt="LaTeX part 1" width="240" height="180" border="10" /></a>
 
 # How to use the files?
 ## The files can be uploaded to your _overleaf.com_ account. It is ready to be compiled and **PDF** generation. For making any changes, you may use the **main.tex** file.
