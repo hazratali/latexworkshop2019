@@ -1,6 +1,9 @@
 # LaTeX Workshop 2019
 ## Basic tutorial file on latex document compilation. 
 ## Very useful and easy to follow note from the workshop I conducted at COMSATS University Abbottabad. 
+#YouTube Channel
+You can also watch the YouTube videos on our beginners guide channel
+
 # How to use the files?
 ## The files can be uploaded to your _overleaf.com_ account. It is ready to be compiled and **PDF** generation. For making any changes, you may use the **main.tex** file.
 After you upload all the files to overleaf, open the `main.tex` file and hit compile button. You will be able to see a screen as shown in the figure.
