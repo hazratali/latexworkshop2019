@@ -5,6 +5,14 @@
 # YouTube Channel
 You can also watch the YouTube videos on our beginners guide channel.
 
+```
+sample of code block
+no more code?
+some more code
+have to be removed
+sample only
+```
+
 [![YouTube Channel](channelicon.png)](http://www.youtube.com/watch?v=VMtTfaaHQcQ)
 
 # How to use the files?
