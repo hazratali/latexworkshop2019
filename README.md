@@ -1,3 +1,4 @@
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 # LaTeX Workshop 2019
 ## Basic tutorial file on latex document compilation. 
 ## Very useful and easy to follow note from the workshop I conducted at COMSATS University Abbottabad. 
